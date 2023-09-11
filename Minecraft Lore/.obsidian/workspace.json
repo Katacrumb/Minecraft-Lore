@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Dragon Lore/01 World of Zeto.md",
+                "file": "04 Dragon Lore/Just notes.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "edac5960f7c63870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Mobs/Giant Zombies.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Dragon Lore/01 World of Zeto.md",
+                "file": "03 Mobs/Giant Zombies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Dragon Lore/01 World of Zeto.md"
+                "file": "03 Mobs/Giant Zombies.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Dragon Lore/01 World of Zeto.md",
+                "file": "03 Mobs/Giant Zombies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,14 +156,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c946106581593be3",
+  "active": "edac5960f7c63870",
   "lastOpenFiles": [
-    "03 Dragon Lore/Just notes.md",
-    "03 Dragon Lore/02 Names of Dragons.md",
+    "01 photos/Giant Zombie.png",
+    "04 Dragon Lore/Just notes.md",
+    "03 Mobs/Giant Zombies.md",
+    "04 Dragon Lore/01 World of Zeto.md",
+    "03 Mobs",
+    "04 Dragon Lore/02 Names of Dragons.md",
     "02 Characters/zz Npc characters.md",
     "02 Characters/02 KyterJingles.md",
     "02 Characters/01 Silvercat75.md",
-    "03 Dragon Lore/01 World of Zeto.md",
     "02 Characters/03 AwesomePup.md",
     "01 photos/battle .png",
     "01 photos/Ad'rehal sketch.png",
@@ -159,7 +175,7 @@
     "01 photos/Small town.png",
     "01 photos/Gre'tza sketch.png",
     "Untitled.canvas",
-    "03 Dragon Lore",
+    "04 Dragon Lore",
     "01 World of Zeto 1.md",
     "2022-09-02.md"
   ]

@@ -162,5 +162,4 @@ https://lingojam.com/MinecraftEnchantmentTabletoEnglish | Minecraft Enchantment 
 
 # Notes cont. 
 - get lore from david, angel, and liza 
-- draw the cultist members, 
 - draw final dragon - water based
