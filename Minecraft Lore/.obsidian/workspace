@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "e7f2668ce70c2f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e35c54981c0837",
+        "type": "leaf",
+        "dimension": 37.702265372168284,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 World of Zeto.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "643608330585624f",
+        "type": "leaf",
+        "dimension": 62.297734627831716,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 Names of dragons.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b76b201cfb9f787",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7ef17575ec8a430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c946106581593be3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "35587bd9f859309f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 143.5
+  },
+  "right": {
+    "id": "594868e2b9dac4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd726d1292de897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c759446f7acccc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 World of Zeto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "499ca9e4c22d96e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 World of Zeto.md"
+              }
+            }
+          },
+          {
+            "id": "de60aa5ff4f354b5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29307ccee44a846a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 World of Zeto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "01e35c54981c0837",
+  "lastOpenFiles": [
+    "02 Names of dragons.md",
+    "01 World of Zeto.md",
+    "01 World of Zeto 1.md",
+    "2022-09-02.md",
+    "photos/Pasted image 20220901025318.png",
+    "photos/Pasted image 20220901025308.png",
+    "photos/Pasted image 20220901025303.png",
+    "photos/Pasted image 20220831004451.png",
+    "Dragon index.md"
+  ]
+}
