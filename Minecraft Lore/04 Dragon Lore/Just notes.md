@@ -8,7 +8,10 @@ https://lingojam.com/MinecraftEnchantmentTabletoEnglish | Minecraft Enchantment 
 ---
 # Color board incase i dont have internet lol
 ==note that this can also be used with regular hexcode #==
-| Colorname            | HEX    | RGB         | Example                           |
+
+<details>
+<summary> Color hexcode for offline mode </summary>
+| Color-name            | HEX    | RGB         | Example                           |
 | -------------------- | ------ | ----------- | --------------------------------- |
 | AliceBlue            | F0F8FF | 240,248,255 | <font color=F0F8FF>Example</font> |
 | AntiqueWhite         | FAEBD7 | 250,235,215 | <font color=FAEBD7>Example</font> |
@@ -157,7 +160,7 @@ https://lingojam.com/MinecraftEnchantmentTabletoEnglish | Minecraft Enchantment 
 | WhiteSmoke           | F5F5F5 | 245,245,245 | <font color=F5F5F5>Example</font> |
 | Yellow               | FFFF00 | 255,255,0   | <font color=FFFF00>Example</font> |
 | YellowGreen          | 9ACD32 | 154,205,50  | <font color=9ACD32>Example</font> |
-
+</details>
 ---
 
 # Notes cont. 
